@@ -129,8 +129,8 @@ def account():
     image_file = url_for('static', filename='profile_pics/' +current_user.image_file) 
     #bike_image_file = url_for('static', filename='bike_pics/' +current_user.bike_image) 
 
-    if method == "POST":
-        print ()
+    #if method == "POST":
+    #    print ()
 
     return render_template('account.html', title='Account', image_file=image_file, sunny=True)#, bike_image=bike_image_file)
 
