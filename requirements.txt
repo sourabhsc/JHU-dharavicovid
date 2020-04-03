@@ -21,4 +21,5 @@ sqlparse==0.3.0
 wasabi==0.2.2
 webencodings==0.5.1
 websocket-client==0.56.0
+Werkzeug==0.16.0
 WTForms==2.2.1
