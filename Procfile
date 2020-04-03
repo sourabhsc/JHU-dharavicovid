@@ -1,1 +1,1 @@
-web: gunicorn run:dharavicovid
+web: gunicorn run:app
