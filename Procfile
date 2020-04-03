@@ -1,1 +1,1 @@
-web: gunicord deploy:app.run
+web: gunicorn deploy:app.run
