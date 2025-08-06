@@ -118,10 +118,10 @@ Our approach builds on proven methodologies:
 
 ## 📅 Implementation Timeline
 
-**Phase 1** (Days 1-7): Expert consultation and software development
-**Phase 2** (Days 8-14): Government and NGO partnership establishment
-**Phase 3** (Days 15-21): Community engagement and leader buy-in
-**Phase 4** (Days 22-28): On-ground deployment and healthcare worker distribution
+- **Phase 1** (Days 1-7): Expert consultation and software development
+- **Phase 2** (Days 8-14): Government and NGO partnership establishment
+- **Phase 3** (Days 15-21): Community engagement and leader buy-in
+- **Phase 4** (Days 22-28): On-ground deployment and healthcare worker distribution
 
 **Total Timeline**: 30 days from project approval to full deployment
 
@@ -212,6 +212,7 @@ For collaboration opportunities, technical questions, or implementation support,
 ## License
 
 This project is developed for public health benefit and community implementation. Please see LICENSE file for usage terms and conditions.
+
 
 
 
