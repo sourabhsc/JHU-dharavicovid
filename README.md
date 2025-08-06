@@ -1,6 +1,6 @@
 # COVID-19 Transmission Mitigation in Dense Settlements
 
-> **Johns Hopkins CBID COVID-19 Design Challenge ** 🏆  
+> **Johns Hopkins CBID COVID-19 Design Challenge **  
 > *A collaborative solution developed by NISER students: **Preeti**, **Tharun**, Monali, Yoshita, and **Prajakta** under Team 94*
 
 [![LinkedIn Post](https://img.shields.io/badge/LinkedIn-Team%20Update-blue?logo=linkedin)](https://www.linkedin.com/posts/sourabh-singh-chauhan_had-a-great-time-participating-in-johns-hopkins-activity-6651265888127451136-Wdhb?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgpL94BCkz83qc56N9JkclZRU7_URJRNN4)
@@ -211,3 +211,4 @@ For collaboration opportunities, technical questions, or implementation support,
 ## License
 
 This project is developed for public health benefit and community implementation. Please see LICENSE file for usage terms and conditions.
+
