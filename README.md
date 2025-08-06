@@ -146,9 +146,9 @@ Our approach builds on proven methodologies:
 ## 📊 Project Documentation
 
 ### Available Documents
-- **[Final Write-Up](/docs/Final%20Write-Up.pdf)** - Complete project report with detailed methodology
-- **[Technical Model](/docs/Team94_Model_COVID19JHU.pdf)** - Statistical modeling and effectiveness calculations  
-- **[Figures & Visualizations](/docs/Figures.pptx.pdf)** - Project charts, maps, and data visualizations
+- **[Final Write-Up](/dharavicovid/docs/Final%20Write-Up.pdf)** - Complete project report with detailed methodology
+- **[Technical Model](/dharavicovid/docs/Team94_Model_COVID19JHU.pdf)** - Statistical modeling and effectiveness calculations  
+- **[Figures & Visualizations](/dharavicovid/docs/Figures.pptx.pdf)** - Project charts, maps, and data visualizations
 
 ## 📊 Expected Impact
 
@@ -212,5 +212,6 @@ For collaboration opportunities, technical questions, or implementation support,
 ## License
 
 This project is developed for public health benefit and community implementation. Please see LICENSE file for usage terms and conditions.
+
 
 
